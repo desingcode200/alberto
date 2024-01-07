@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "IGEmail - Phone Number and Email Extractor for IG",
+    "description": "Name of the extension"
+  },
+  "extDescription": {
+    "message": "IGEmail scrape and extract emails from Instagram follower, following, commenter, liker, hashtag and location",
+    "description": "Description of the extension"
+  }
+}

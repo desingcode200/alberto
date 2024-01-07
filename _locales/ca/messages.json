@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "IG Email Scraper and Extractor - IG Export",
+    "description": "Name of the extension"
+  },
+  "extDescription": {
+    "message": "IGEmail extract public emails from IG based on follower, following, commenter, liker, hashtag, location and custom users",
+    "description": "Description of the extension"
+  }
+}

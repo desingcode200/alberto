@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "IGEmail - IG를 위한 이메일 추출기 및 스크래퍼",
+    "description": "확장 프로그램의 이름"
+  },
+  "extDescription": {
+    "message": "IGEmail은 Instagram 팔로워, 팔로잉, 댓글 작성자, 좋아요 클릭자, 해시태그 및 위치에서 이메일을 스크래이핑하고 추출합니다",
+    "description": "확장 프로그램의 설명"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "IGEmail - Extrator e Raspador de Emails para IG",
+    "description": "Nome da extensão"
+  },
+  "extDescription": {
+    "message": "IGEmail raspa e extrai emails de seguidores do Instagram, seguindo, comentarista, liker, hashtag e localização",
+    "description": "Descrição da extensão"
+  }
+}
